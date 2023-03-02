@@ -40,3 +40,6 @@
 *.exe.recipe
 *.vcxproj.FileListAbsolute.txt
 *.idb
+
+# visual studio meta folder
+**/.vs
