@@ -16,6 +16,7 @@
 *.dylib
 *.dll
 
+
 # Fortran module files
 *.mod
 *.smod
@@ -30,3 +31,12 @@
 *.exe
 *.out
 *.app
+
+# Visual Studio Debug
+*.tlog
+*.ilk
+*.log
+*.pdb
+*.exe.recipe
+*.vcxproj.FileListAbsolute.txt
+*.idb
