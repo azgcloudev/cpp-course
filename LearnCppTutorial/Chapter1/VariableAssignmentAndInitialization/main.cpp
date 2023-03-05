@@ -20,7 +20,7 @@ int main()
 	int f{ 1 };		// direct list initialization
 	int g = { 1 };	// copy list initialization
 	int h{};		// value initialization
-
+	
 	int distance = 4.5;		// will truncate the number value to 4, because int cannot hold franctions
 	// int distance1{ 4.5 };	// provides a compile error
 
