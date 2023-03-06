@@ -17,7 +17,7 @@ int main()
 	int f(1);	// direct initialization
 
 	// c++11 list initialization methods
-	int f{ 1 };		// direct list initialization
+	int j{ 1 };		// direct list initialization
 	int g = { 1 };	// copy list initialization
 	int h{};		// value initialization
 	
